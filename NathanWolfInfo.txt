@@ -1,0 +1,3 @@
+Name: Nathan Wolf
+Email: nrwolf@mtu.edu
+Course Name: CS3141 Team Software Project
